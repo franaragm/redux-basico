@@ -1,0 +1,26 @@
+{
+  "name": "redux-basico",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio hecho curso de REDUX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franaragm/redux-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franaragm/redux-basico/issues"
+  },
+  "homepage": "https://github.com/franaragm/redux-basico#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
